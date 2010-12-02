@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2p-DNS", "p2p-DNS\p2p-DNS.csproj", "{48C0CDCB-A7A2-4301-B9ED-241B7AB26AD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48C0CDCB-A7A2-4301-B9ED-241B7AB26AD0}.Debug|x86.ActiveCfg = Debug|x86
+		{48C0CDCB-A7A2-4301-B9ED-241B7AB26AD0}.Debug|x86.Build.0 = Debug|x86
+		{48C0CDCB-A7A2-4301-B9ED-241B7AB26AD0}.Release|x86.ActiveCfg = Release|x86
+		{48C0CDCB-A7A2-4301-B9ED-241B7AB26AD0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
