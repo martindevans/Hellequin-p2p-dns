@@ -1,0 +1,10 @@
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\HandyCollections\HandyCollections\bin\Debug\HandyCollections.dll
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\HandyCollections\HandyCollections\bin\Debug\HandyCollections.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\HandyCollections\HandyCollections\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\HandyCollections\HandyCollections\obj\Debug\HandyCollections.dll
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\HandyCollections\HandyCollections\obj\Debug\HandyCollections.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\p2p-DNS\p2p-DNS\HandyCollections\HandyCollections\bin\Debug\HandyCollections.dll
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\p2p-DNS\p2p-DNS\HandyCollections\HandyCollections\bin\Debug\HandyCollections.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\p2p-DNS\p2p-DNS\HandyCollections\HandyCollections\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\p2p-DNS\p2p-DNS\HandyCollections\HandyCollections\obj\Debug\HandyCollections.dll
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\p2p-DNS\p2p-DNS\HandyCollections\HandyCollections\obj\Debug\HandyCollections.pdb

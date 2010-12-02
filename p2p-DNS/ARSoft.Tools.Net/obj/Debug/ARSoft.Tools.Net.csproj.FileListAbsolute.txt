@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\p2p-DNS\bin\Debug\ARSoft.Tools.Net\ARSoft.Tools.Net.dll
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\p2p-DNS\bin\Debug\ARSoft.Tools.Net\ARSoft.Tools.Net.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\p2p-DNS\p2p-DNS\ARSoft.Tools.Net\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\p2p-DNS\p2p-DNS\ARSoft.Tools.Net\obj\Debug\ARSoft.Tools.Net.dll
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\p2p-DNS\p2p-DNS\ARSoft.Tools.Net\obj\Debug\ARSoft.Tools.Net.pdb

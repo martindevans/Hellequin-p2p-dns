@@ -1,0 +1,2 @@
+﻿dnsport = 53
+peerport = 12001

@@ -43,8 +43,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DnsServer.cs" />
+    <Compile Include="DomainMapping.cs" />
+    <Compile Include="Extensions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RecentlyUsedQueue.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MyDomainMappings.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Settings.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="ARSoft.Tools.Net\ARSoft.Tools.Net.csproj">
+      <Project>{65BFA748-C640-49B0-B506-34BBB165233A}</Project>
+      <Name>ARSoft.Tools.Net</Name>
+    </ProjectReference>
+    <ProjectReference Include="DistributedServiceProvider\DistributedServiceProviderBase\DistributedServiceProvider.Base.csproj">
+      <Project>{024ECFB7-AA89-4C58-BE96-C2488EEA877A}</Project>
+      <Name>DistributedServiceProvider.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="DistributedServiceProvider\DistributedServiceProvider\DistributedServiceProvider.csproj">
+      <Project>{8ED2362E-9295-4BED-B43B-2F907AD7741D}</Project>
+      <Name>DistributedServiceProvider</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
