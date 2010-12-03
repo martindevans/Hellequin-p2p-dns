@@ -1,4 +1,3 @@
-c:\users\martin\documents\visual studio 2010\Projects\p2p-DNS\p2p-DNS\obj\x86\Debug\ResolveAssemblyReference.cache
 c:\users\martin\documents\visual studio 2010\Projects\p2p-DNS\p2p-DNS\bin\Debug\MyDomainMappings.txt
 c:\users\martin\documents\visual studio 2010\Projects\p2p-DNS\p2p-DNS\bin\Debug\Settings.txt
 c:\users\martin\documents\visual studio 2010\Projects\p2p-DNS\p2p-DNS\bin\Debug\p2p-DNS.exe
@@ -16,5 +15,7 @@ c:\users\martin\documents\visual studio 2010\Projects\p2p-DNS\p2p-DNS\bin\Debug\
 c:\users\martin\documents\visual studio 2010\Projects\p2p-DNS\p2p-DNS\bin\Debug\protobuf-net.xml
 c:\users\martin\documents\visual studio 2010\Projects\p2p-DNS\p2p-DNS\bin\Debug\HandyCollections.pdb
 c:\users\martin\documents\visual studio 2010\Projects\p2p-DNS\p2p-DNS\bin\Debug\HandyCollections.xml
+c:\users\martin\documents\visual studio 2010\Projects\p2p-DNS\p2p-DNS\obj\x86\Debug\ResolveAssemblyReference.cache
 c:\users\martin\documents\visual studio 2010\Projects\p2p-DNS\p2p-DNS\obj\x86\Debug\p2p-DNS.exe
 c:\users\martin\documents\visual studio 2010\Projects\p2p-DNS\p2p-DNS\obj\x86\Debug\p2p-DNS.pdb
+c:\users\martin\documents\visual studio 2010\Projects\p2p-DNS\p2p-DNS\bin\Debug\Bootstrap.txt

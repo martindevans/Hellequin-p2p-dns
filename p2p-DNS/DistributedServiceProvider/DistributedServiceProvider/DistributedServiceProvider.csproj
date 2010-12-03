@@ -33,9 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="protobuf-net">
-      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\protobuf-net\protobuf-net-VS9\protobuf-net.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -67,6 +64,10 @@
     <ProjectReference Include="..\..\HandyCollections\HandyCollections\HandyCollections.csproj">
       <Project>{C18B7765-C1F8-4769-A114-291D0BDB5865}</Project>
       <Name>HandyCollections</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\protobuf-net\protobuf-net.csproj">
+      <Project>{8374E4D7-2A91-48F1-9360-09B09CF27C3F}</Project>
+      <Name>protobuf-net</Name>
     </ProjectReference>
     <ProjectReference Include="..\DistributedServiceProviderBase\DistributedServiceProvider.Base.csproj">
       <Project>{024ECFB7-AA89-4C58-BE96-C2488EEA877A}</Project>
