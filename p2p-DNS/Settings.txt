@@ -1,6 +1,6 @@
 ﻿dnsport = 53
 
-//make sure to tell people if you change this, bets just to leave it at 12001
+//make sure to tell people if you change this, best just to leave it at 12001
 peerport = 12001
 
 //change this to your public IP
